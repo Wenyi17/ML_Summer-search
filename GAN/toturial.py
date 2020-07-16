@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # torch.manual_seed(1)    # reproducible
 # np.random.seed(1)
 
-# Hyper Parameters
+# 超参数
 BATCH_SIZE = 64
 LR_G = 0.0001           # learning rate for generator
 LR_D = 0.0001           # learning rate for discriminator
